@@ -18,7 +18,7 @@ EXCEL_PATH = "PONDERACIONES ASIGNATURAS MOLINA.xlsx"
 PDF_CUTOFF_PATH = "DUM NOTAS DE CORTE.pdf"
 
 st.set_page_config(
-    page_title="Orientación Bachillerato · Ponderaciones",
+    page_title="Orientación Bachillerato M.Molina",
     layout="wide",
     page_icon="🎓",
 )
