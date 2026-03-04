@@ -390,7 +390,7 @@ UNI_MAP = {
 # -----------
 # UI principal
 # -----------
-st.title("🎓 Orientación para elegir materias de Bachillerato")
+st.title("🎓 Orientación Bachillerato María de Molina")
 st.caption("Elige grados/universidades y selecciona 4 asignaturas: verás cómo ponderan en cada opción.")
 
 df, SUBJECTS = load_data(EXCEL_PATH)
